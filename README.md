@@ -20,6 +20,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="54" alt="python logo"  />
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=mysql" height="54" alt="mysql logo"  />
+  <img width="12" />
 </div>
 
 ###
