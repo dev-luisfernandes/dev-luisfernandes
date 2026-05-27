@@ -95,6 +95,16 @@
 
 <br>
 
+<div>
+  <h2 align="center">📃 Minhas Certificações 📃</h2>
+    <p  align="center">
+     <img src="https://fiap-achievements.vercel.app/api/badge?badge=348275&theme=black" width="140" />
+     <img src="https://fiap-achievements.vercel.app/api/badge?badge=736418&theme=light" width="140" />
+     <img src="https://fiap-achievements.vercel.app/api/badge?badge=492673&theme=black" width="140" />
+     <img src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=light" width="140" />
+    </p>
+</div>
+
 <h2 align="center">Tecnologias e linguagens 💻</h2>
 
 ###
