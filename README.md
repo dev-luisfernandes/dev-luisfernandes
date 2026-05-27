@@ -105,6 +105,8 @@
     </p>
 </div>
 
+<br>
+
 <h2 align="center">Tecnologias e linguagens 💻</h2>
 
 ###
