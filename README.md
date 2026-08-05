@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=LUIS%20FELIPE&fontSize=47&fontColor=#9333EA&fontAlign=50&fontAlignY=61&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=Fernandes%20Esteves&descSize=18&descAlign=50&descAlignY=85&textBg=false&color=#6C2BD9"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=LUIS%20&fontSize=47&fontColor=#9333EA&fontAlign=50&fontAlignY=61&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=Fernandes%20&descSize=18&descAlign=50&descAlignY=85&textBg=false&color=#6C2BD9"  />
 </div>
 
 
@@ -32,13 +32,13 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfelipe-fernandesesteves&theme=midnight-purple" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-luisfernandes&theme=midnight-purple" />
 </p>
 
 <p align="center">
   <a href="https://github.com/luisfelipe-fernandesesteves">
     <picture>
-      <img height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=luisfelipe-fernandesesteves&hide_title=true&show_icons=true&theme=midnight-purple&include_all_commits=true" />
+      <img height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=dev-luisfernandes&hide_title=true&show_icons=true&theme=midnight-purple&include_all_commits=true" />
     </picture>
   </a>
 
@@ -177,11 +177,11 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=luisfelipe-fernandesesteves&style=for-the-badge&color=7C3AED&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=dev-luisfernandes&style=for-the-badge&color=7C3AED&label=VISITORS"/>
 
-<img src="https://img.shields.io/github/followers/luisfelipe-fernandesesteves?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=7C3AED&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/dev-luisfernandes?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=7C3AED&label=FOLLOWERS"/>
 
-<img src="https://img.shields.io/github/stars/luisfelipe-fernandesesteves?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=7C3AED&label=STARS"/>
+<img src="https://img.shields.io/github/stars/dev-luisfernandes?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=7C3AED&label=STARS"/>
 
 </p>
 
