@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/luisfelipe-fernandesesteves">
+  <a href="https://github.com/dev-luisfernandes">
     <picture>
       <img height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=dev-luisfernandes&hide_title=true&show_icons=true&theme=midnight-purple&include_all_commits=true" />
     </picture>
