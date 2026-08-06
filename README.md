@@ -42,9 +42,9 @@
     </picture>
   </a>
 
-  <a href="https://github.com/luisfelipe-fernandesesteves">
+  <a href="https://github.com/dev-luisfernandes">
     <picture>
-      <img height="150px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=luisfelipe-fernandesesteves&layout=compact&theme=midnight-purple&count_private=true" />
+      <img height="150px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=dev-luisfernandes&layout=compact&theme=midnight-purple&count_private=true" />
     </picture>
   </a>
 </p>
@@ -56,13 +56,13 @@
 <p align="center">Escolha uma tecnologia para explorar meus projetos</p>
 
 <p align="center">
-  <a href="https://github.com/luisfelipe-fernandesesteves?tab=repositories&language=python">
+  <a href="https://github.com/dev-luisfernandes?tab=repositories&language=python">
     <img src="https://img.shields.io/badge/Python-Projetos-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-  <a href="https://github.com/luisfelipe-fernandesesteves?tab=repositories&language=java">
+  <a href="https://github.com/dev-luisfernandes?tab=repositories&language=java">
     <img src="https://img.shields.io/badge/Java-Projetos-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   </a>
-  <a href="https://github.com/luisfelipe-fernandesesteves?tab=repositories&q=language:javascript+language:html+language:css">
+  <a href="https://github.com/dev-luisfernandes?tab=repositories&q=language:javascript+language:html+language:css">
     <img src="https://img.shields.io/badge/Frontend-JS%20%7C%20HTML%20%7C%20CSS-7A00FF?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
 </p>
@@ -72,9 +72,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisfelipe-fernandesesteves/luisfelipe-fernandesesteves/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisfelipe-fernandesesteves/luisfelipe-fernandesesteves/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luisfelipe-fernandesesteves/luisfelipe-fernandesesteves/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-luisfernandes/dev-luisfernandes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-luisfernandes/dev-luisfernandes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dev-luisfernandes/dev-luisfernandes/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
